@@ -45,7 +45,7 @@ This simple C# program calculates the ticket price based on the age entered by t
 - If the input is not valid, it prompts the user to enter a valid age.
 
 ################################################
-#Q3. Triangle Type Identifier
+# Q3. Triangle Type Identifier
 
 This simple C# program identifies the type of triangle based on the lengths of its sides.
 
