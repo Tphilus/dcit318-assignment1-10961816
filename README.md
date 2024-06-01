@@ -1,11 +1,12 @@
 ﻿# DCIT318 ASSIGNMENT1
 
-# Grade Calculator
+# Q1. Grade Calculator
 
 This simple C# program calculates the letter grade based on a numerical input between 0 and 100.
 
 ## Usage
 
+# CD INTO THE GRADECALCULATOR AND DO THE FOLLORGILE
 1. Clone this repository to your local machine.
 2. Open the solution in your preferred C# development environment.
 3. Compile and run the `GradeCalculator.cs` file.
