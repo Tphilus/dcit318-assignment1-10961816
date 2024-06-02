@@ -36,9 +36,8 @@ class TriangleTypeIdentifier
             Console.WriteLine("The triangle type is: " + triangleType);
         }
         else
-        {
-            // Invalid input
-            Console.WriteLine("Invalid input. Please enter valid numerical values for the sides.");
-        }
+       
     }
 }
+
+// djdjdd
