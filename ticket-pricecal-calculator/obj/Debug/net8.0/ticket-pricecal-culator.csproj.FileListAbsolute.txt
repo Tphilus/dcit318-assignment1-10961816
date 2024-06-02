@@ -1,0 +1,15 @@
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\bin\Debug\net8.0\ticket-pricecal-culator.exe
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\bin\Debug\net8.0\ticket-pricecal-culator.deps.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\bin\Debug\net8.0\ticket-pricecal-culator.runtimeconfig.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\bin\Debug\net8.0\ticket-pricecal-culator.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\bin\Debug\net8.0\ticket-pricecal-culator.pdb
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.AssemblyInfoInputs.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.AssemblyInfo.cs
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.csproj.CoreCompileInputs.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.sourcelink.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\refint\ticket-pricecal-culator.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.pdb
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ticket-pricecal-culator.genruntimeconfig.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\ticket-pricecal-calculator\obj\Debug\net8.0\ref\ticket-pricecal-culator.dll

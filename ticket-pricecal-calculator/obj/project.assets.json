@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tkana\\Desktop\\dcit318-assignment1-10961816\\ticket-pricecal-culator\\ticket-pricecal-culator.csproj",
+      "projectUniqueName": "C:\\Users\\tkana\\Desktop\\dcit318-assignment1-10961816\\ticket-pricecal-calculator\\ticket-pricecal-culator.csproj",
       "projectName": "ticket-pricecal-culator",
-      "projectPath": "C:\\Users\\tkana\\Desktop\\dcit318-assignment1-10961816\\ticket-pricecal-culator\\ticket-pricecal-culator.csproj",
+      "projectPath": "C:\\Users\\tkana\\Desktop\\dcit318-assignment1-10961816\\ticket-pricecal-calculator\\ticket-pricecal-culator.csproj",
       "packagesPath": "C:\\Users\\tkana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tkana\\Desktop\\dcit318-assignment1-10961816\\ticket-pricecal-culator\\obj\\",
+      "outputPath": "C:\\Users\\tkana\\Desktop\\dcit318-assignment1-10961816\\ticket-pricecal-calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tkana\\AppData\\Roaming\\NuGet\\NuGet.Config",
