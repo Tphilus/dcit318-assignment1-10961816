@@ -1,0 +1,15 @@
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.exe
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.deps.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.runtimeconfig.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.pdb
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.AssemblyInfoInputs.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.AssemblyInfo.cs
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.csproj.CoreCompileInputs.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.sourcelink.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\refint\triangle-type-identifier.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.pdb
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.genruntimeconfig.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\triangle-type-identifier\obj\Debug\net8.0\ref\triangle-type-identifier.dll
