@@ -1,0 +1,15 @@
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\bin\Debug\net8.0\gradecalculator.exe
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\bin\Debug\net8.0\gradecalculator.deps.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\bin\Debug\net8.0\gradecalculator.runtimeconfig.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\bin\Debug\net8.0\gradecalculator.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\bin\Debug\net8.0\gradecalculator.pdb
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.AssemblyInfoInputs.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.AssemblyInfo.cs
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.csproj.CoreCompileInputs.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.sourcelink.json
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\refint\gradecalculator.dll
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.pdb
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\gradecalculator.genruntimeconfig.cache
+C:\Users\tkana\Desktop\dcit318-assignment1-10961816\gradecalculator\obj\Debug\net8.0\ref\gradecalculator.dll
